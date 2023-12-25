@@ -1,3 +1,4 @@
-Hello this is a simple text file
+Hello This is a simple text file
 This is the second line
 This is also the third line
+This is the fourth line
